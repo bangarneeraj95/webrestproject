@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1435217834889_0" label="Rms_Aartek" name="Rms_Aartek">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Rms_Aartek" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Aartek-data" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Aartek-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Aartek_web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Aartek-admin" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1435217851754_1" label="Window Working Set" name="Aggregate for window 1435217851753"/>
+</workingSetManager>

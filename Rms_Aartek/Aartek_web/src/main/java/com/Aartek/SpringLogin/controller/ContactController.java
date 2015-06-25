@@ -94,7 +94,7 @@ public class ContactController {
          c.setLastname(contact.getLastname());
          c.setEmail(contact.getEmail());
          c.setTelephone(contact.getTelephone());*/
-       //	dao.saveEmployee(c);
+       dao.saveEmployee(c);
 
 	
         
